@@ -5,7 +5,7 @@
 ### Q1: Which of the following literals is a valid value for a *boolean* variable?
 
 A. "false"  
-B. false **x**
+B. false **x**  
 C. 10  
 
 ### Q2: Which of these is not a convention for naming variables in Java?
